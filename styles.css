@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+form, div, h1 {
+    text-align: center;
+    margin: 3rem;
+}
+
+button {
+    background-color: pink;
+}
